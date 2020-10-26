@@ -1,5 +1,5 @@
 # Python-Spotify-Last-FM-API
-A small project where you we get the top 20 trending songs from Last FM and create a Playlist in Spotify and add those songs into them.
+A small project where you we get the top trending songs from Last FM and create a Playlist in Spotify and add those songs into them.
 
 Sign up for Last FM Api Key: https://www.last.fm/api/account/create
 
